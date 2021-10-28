@@ -38,6 +38,10 @@ section{
     text-align: center;
 }
 
+img{
+    max-width:100%;
+}
+
 
 .heading span{
     font-size: 3.5rem;    
